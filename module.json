@@ -1,7 +1,7 @@
 {
 	"id": "fvtt-dsn-yoru",
-	"title": "Dice Tray - An Example FVTT Module",
-	"description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+	"title": "Cise",
+	"description": "Cise - additional designs for Dice SO Nice! module for Foundry VTT",
 	"authors": [{
 		"name": "theSchnucki"
 	}],
