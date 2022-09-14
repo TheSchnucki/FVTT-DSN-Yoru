@@ -1,0 +1,15 @@
+{
+  "id": "fvtt-dsn-yoru",
+  "title": "Dice Tray - An Example FVTT Module",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+  "authors": [
+    {
+    "name": "theSchnucki"
+    }
+    ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
+}
