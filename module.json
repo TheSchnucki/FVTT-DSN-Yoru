@@ -5,7 +5,7 @@
 	"authors": [{
 		"name": "theSchnucki"
 	}],
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"compatibility": {
 		"minimum": "9",
 		"verified": "10"
