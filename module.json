@@ -5,6 +5,9 @@
 	"authors": [{
 		"name": "theSchnucki"
 	}],
+	"esmodules": [
+		"./scripts/cise.js"
+	],
 	"version": "0.0.3",
 	"compatibility": {
 		"minimum": "9",
