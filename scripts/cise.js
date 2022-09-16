@@ -1,7 +1,7 @@
 Hooks.once('diceSoNiceReady', (dice3d) => {
   dice3d.addSystem({id:"cise",name:"Cise"},true);
   dice3d.addDicePreset({
-    type:"ds",
+    type:"d6",
     labels:[
       'modules/fvtt-dsn-yoru/artwork/S1.png',
       'modules/fvtt-dsn-yoru/artwork/S2.png',
