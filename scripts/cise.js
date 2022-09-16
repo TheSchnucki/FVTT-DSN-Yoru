@@ -9,7 +9,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       'modules/fvtt-dsn-yoru/artwork/S4.png',
       'modules/fvtt-dsn-yoru/artwork/S5.png',
       'modules/fvtt-dsn-yoru/artwork/S6.png'
-    ],
+    ],/*
     bumpMaps:[
       'modules/fvtt-dsn-yoru/artwork/S1_bump.png',
       'modules/fvtt-dsn-yoru/artwork/S2_bump.png',
@@ -17,7 +17,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
       'modules/fvtt-dsn-yoru/artwork/S4_bump.png',
       'modules/fvtt-dsn-yoru/artwork/S5_bump.png',
       'modules/fvtt-dsn-yoru/artwork/S6_bump.png'
-    ],
+    ],*/
     system:"cise"
   });
 });
