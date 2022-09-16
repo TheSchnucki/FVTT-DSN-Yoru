@@ -1,7 +1,13 @@
+import {DieCise} from './die.js';
+
+Hooks.once("init", async function () {
+    CONFIG.Dice.terms["c"] = DieCise;
+});
+
 Hooks.once('diceSoNiceReady', (dice3d) => {
-  dice3d.addSystem({id:"cise",name:"Cise"},true);
+  dice3d.addSystem({id:"cise",name:"CyberHex"},true);
   dice3d.addDicePreset({
-    type:"d6",
+    type:"dc",
     labels:[
       'modules/fvtt-dsn-yoru/artwork/S1.png',
       'modules/fvtt-dsn-yoru/artwork/S2.png',
